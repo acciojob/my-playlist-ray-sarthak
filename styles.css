@@ -1,16 +1,16 @@
 /*  your css code here. If applicable */
 html{
-	background-color:#cccccc;
+	background-color:rgb(204, 204, 204);
 }
 .player_one{
 	 border: 2px solid black;
   border-radius: 5px;
-	background-color:whitesmoke;
+	background-color:rgb(255, 255, 255);
 }
 .player_two{
 	 border: 2px solid black;
   border-radius: 5px;
-	background-color:white;
+	background-color:rgb(255, 255, 255);
 	width:330px;
 	padding:4px
 
